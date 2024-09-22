@@ -6,8 +6,8 @@ const resumeData = {
       email: "Saudhusayn@gmail.com",
       phone: "+971 527272685",
       website: "SaudHussain.in",
-      github: "https://github.com/yourusername",
-      linkedin: "https://www.linkedin.com/in/yourprofile"
+      github:"https://github.com/saud-03",
+      linkedin: "https://www.linkedin.com/in/saud-h-43a584199"
     },
     summary: "Full stack developer specializing in the MERN stack, Next.js, and TypeScript, with experience in building efficient web applications from front-end to back-end. Skilled at translating client requirements and design files into functional, user-friendly solutions. Proficient in RESTful API design, database optimization, and AI model integration. Committed to writing clean, maintainable code while staying updated with industry trends.",
     experience: [
