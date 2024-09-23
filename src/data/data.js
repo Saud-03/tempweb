@@ -1,4 +1,3 @@
-// Import images
 import image001 from '../assets/projects/001.jpg';
 import image002 from '../assets/projects/002.jpg';
 import image003 from '../assets/projects/003.jpg';
@@ -23,31 +22,24 @@ const projectDetails = [
   {
     id: 3,
     title: 'ByteBlog',
-    description: 'A dynamic blogging platform using Next.js and TypeScript with robust server-side rendering.',
+    description: 'A dynamic blogging platform with categories, tags, and user authentication for posting and commenting.',
     image: image003,
     link: 'https://www.saudhussain.in',
   },
   {
     id: 4,
-    title: 'Project 4',
-    description: 'A brief description of Project 4.',
+    title: 'Ecommerce Project',
+    description: 'An e-commerce platform with product listings, cart functionality, and secure checkout integration.',
     image: image004,
     link: 'https://www.saudhussain.in',
   },
   {
     id: 5,
-    title: 'Project 5',
-    description: 'A brief description of Project 5.',
+    title: 'SaaS Project',
+    description: 'A SaaS solution offering a subscription-based model with a feature-rich dashboard and analytics.',
     image: image005,
     link: 'https://www.saudhussain.in',
-  },
-  {
-    id: 6,
-    title: 'Project 6',
-    description: 'A brief description of Project 6.',
-    image: image005,
-    link: 'https://www.saudhussain.in',
-  },
+  }
 ];
 
 export default projectDetails;
