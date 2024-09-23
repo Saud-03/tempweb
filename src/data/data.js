@@ -14,7 +14,7 @@ const projectDetails = [
   },
   {
     id: 2,
-    title: 'Saud Estae',
+    title: 'Saud Estate',
     description: 'A real estate marketplace with advanced search and filtering features for property transactions.',
     image: image002,
     link: 'https://www.saudhussain.in',
@@ -28,14 +28,14 @@ const projectDetails = [
   },
   {
     id: 4,
-    title: 'Ecommerce Project',
+    title: 'ExEcom',
     description: 'An e-commerce platform with product listings, cart functionality, and secure checkout integration.',
     image: image004,
     link: 'https://www.saudhussain.in',
   },
   {
     id: 5,
-    title: 'SaaS Project',
+    title: 'Slidex',
     description: 'A SaaS solution offering a subscription-based model with a feature-rich dashboard and analytics.',
     image: image005,
     link: 'https://www.saudhussain.in',
