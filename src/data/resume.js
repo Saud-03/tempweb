@@ -6,7 +6,7 @@ const resumeData = {
       email: "Saudhusayn@gmail.com",
       phone: "+971 527272685",
       website: "SaudHussain.in",
-      github:"https://github.com/saud-03",
+      github:"#",
       linkedin: "https://www.linkedin.com/in/saud-h-43a584199"
     },
     summary: "Full stack developer specializing in the MERN stack, Next.js, and TypeScript, with experience in building efficient web applications from front-end to back-end. Skilled at translating client requirements and design files into functional, user-friendly solutions. Proficient in RESTful API design, database optimization, and AI model integration. Committed to writing clean, maintainable code while staying updated with industry trends.",
@@ -41,7 +41,7 @@ const resumeData = {
       }
     ],
     skills: [
-      "JavaScript", "TypeScript", "React.js", "C++", "Rest API", "MongoDB",
+      "JavaScript", "TypeScript", "React.js","Rest API", "MongoDB",
       "Postgress", "MySQL", "Next.js", "NodeJS", "Redux toolkit", "Tailwind",
       "Git", "Shadcn", "Express", "Postman", "DBMS"
     ],

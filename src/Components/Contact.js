@@ -27,7 +27,7 @@ const Contact = () => {
               <a href="https://www.linkedin.com/in/saud-h-43a584199" className="text-gray-400 hover:text-purple-400 transition duration-300">
                 <FaLinkedin className="text-2xl sm:text-3xl" />
               </a>
-              <a href="https://github.com/saud-03" className="text-gray-400 hover:text-purple-400 transition duration-300">
+              <a href="https://#" className="text-gray-400 hover:text-purple-400 transition duration-300">
                 <FaGithub className="text-2xl sm:text-3xl" />
               </a>
               <a href="https://wa.me/+917019291068" className="text-gray-400 hover:text-purple-400 transition duration-300">

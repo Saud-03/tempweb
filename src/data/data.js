@@ -1,8 +1,8 @@
-import image001 from '../assets/projects/001.jpg';
-import image002 from '../assets/projects/002.jpg';
-import image003 from '../assets/projects/003.jpg';
-import image004 from '../assets/projects/004.jpg';
-import image005 from '../assets/projects/005.jpg';
+import image001 from '../assets/projects/001.png';
+import image002 from '../assets/projects/002.png';
+import image003 from '../assets/projects/003.png';
+import image004 from '../assets/projects/004.jpeg';
+import image005 from '../assets/projects/005.png';
 
 const projectDetails = [
   {
