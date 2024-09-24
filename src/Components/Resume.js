@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 const Resume = () => {
   const handleDownload = () => {
-    const pdfUrl = '/Saud_cv.pdf';
+    const pdfUrl = '/Saud_Hussain_resume.pdf';
     const link = document.createElement('a');
     link.href = pdfUrl;
     link.setAttribute('download', 'Saud_Hussain_Resume.pdf');
